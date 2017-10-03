@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "microdrop_jupyterlab_extension",
+  "version": "0.0.1",
+  "description": "Microdrop JupyterLab Extension.",
+  "author": "lucaszw",
+  "main": "lib/plugin.js",
+  "keywords": [
+    "dropbot",
+    "microdrop",
+    "jupyter",
+    "jupyterlab"
+  ],
+  "jupyterlab": {
+    "extension": true
+  },
+  "dependencies": {
+    "@mqttclient/web": "0.0.9",
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "mustache": "^2.3.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
