@@ -6,6 +6,7 @@ A JupyterLab extension to interface with Microdrop 3.0
 ## Prerequisites
 
 * JupyterLab
+* Microdrop 3
 
 
 ## Development
