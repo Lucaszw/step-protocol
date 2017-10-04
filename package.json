@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "@microdrop/jupyterlab_extension",
   "version": "0.0.1",
   "description": "Microdrop JupyterLab Extension.",
