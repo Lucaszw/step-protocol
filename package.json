@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "microdrop_jupyterlab_extension",
+  "name": "@microdrop/jupyterlab_extension",
   "version": "0.0.1",
   "description": "Microdrop JupyterLab Extension.",
   "author": "lucaszw",
