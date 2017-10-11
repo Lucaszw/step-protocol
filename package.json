@@ -1,24 +1,29 @@
 {
-  "name": "@microdrop/jupyterlab_extension",
+  "name": "@microdrop/step_protocol_jlab_extension",
   "version": "0.0.4",
-  "description": "Microdrop JupyterLab Extension.",
+  "description": "Step Protocol Extension",
   "author": "lucaszw",
   "main": "lib/plugin.js",
   "keywords": [
     "dropbot",
     "microdrop",
     "jupyter",
-    "jupyterlab"
+    "jupyterlab",
+    "protocols"
   ],
   "jupyterlab": {
     "extension": true
   },
   "dependencies": {
-    "@mqttclient/web": "0.0.9",
-    "bootstrap": "^4.0.0-alpha.6",
+    "@microdrop/async": "0.0.2",
+    "@mqttclient/web": "0.0.14",
+    "backgrid": "^0.3.8",
+    "bootstrap": "^4.0.0-beta",
     "jquery": "^3.2.1",
+    "keyboard-shortcut": "^1.2.0",
     "lodash": "^4.17.4",
-    "mustache": "^2.3.0"
+    "mustache": "^2.3.0",
+    "yo-yo": "^1.4.1"
   },
   "devDependencies": {
     "webpack": "^3.6.0"
