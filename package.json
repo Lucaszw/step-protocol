@@ -18,14 +18,10 @@
     "@microdrop/async": "0.0.3",
     "@mqttclient/web": "0.0.14",
     "backgrid": "^0.3.8",
-    "bootstrap": "^4.0.0-beta",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.2.1",
     "keyboard-shortcut": "^1.2.0",
-    "lodash": "^4.17.4",
-    "mustache": "^2.3.0",
-    "yo-yo": "^1.4.1"
+    "lodash": "^4.17.4"
   },
-  "devDependencies": {
-    "webpack": "^3.7.1"
-  }
+  "devDependencies": {}
 }
