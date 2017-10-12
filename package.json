@@ -15,7 +15,7 @@
     "extension": true
   },
   "dependencies": {
-    "@microdrop/async": "0.0.2",
+    "@microdrop/async": "0.0.3",
     "@mqttclient/web": "0.0.14",
     "backgrid": "^0.3.8",
     "bootstrap": "^4.0.0-beta",
@@ -26,6 +26,6 @@
     "yo-yo": "^1.4.1"
   },
   "devDependencies": {
-    "webpack": "^3.6.0"
+    "webpack": "^3.7.1"
   }
 }
