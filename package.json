@@ -1,6 +1,6 @@
 {
   "name": "@microdrop/step-protocol",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Step Protocol Extension",
   "author": "lucaszw",
   "main": "lib/plugin.js",
