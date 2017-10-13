@@ -15,7 +15,7 @@
     "extension": true
   },
   "dependencies": {
-    "@microdrop/async": "0.0.3",
+    "@microdrop/async": "0.0.11",
     "@mqttclient/web": "0.0.14",
     "backgrid": "^0.3.8",
     "font-awesome": "^4.7.0",
