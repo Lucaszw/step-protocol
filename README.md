@@ -1,6 +1,6 @@
-# Microdrop JupyterLab Extension
+# Microdrop Step Protocol Extension
 
-A JupyterLab extension to interface with Microdrop 3.0
+A JupyterLab extension to handle Microdrop 3 Step Protocols
 
 
 ## Prerequisites
